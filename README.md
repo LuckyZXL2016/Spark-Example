@@ -44,7 +44,7 @@ com.zxl.spark2_2.dataset
 	createDataSet：
 	
 		DataSet创建的多种方式
-		
+
 	basicAction：
 	
 		DataSet的基本操作
@@ -52,7 +52,17 @@ com.zxl.spark2_2.dataset
 	actions：
 	
 		DataSet的Action操作
-
+			1.map操作，flatMap操作
+			2.filter操作，where操作
+			3.去重操作
+			4.加法/减法操作
+			5.select操作
+			6.排序操作
+			7.分割抽样操作
+			8.列操作
+			9.join操作
+			10.分组聚合操作
+		
 com.zxl.spark1_6.dataframe
 	
 	SQLDemo：
