@@ -39,6 +39,20 @@ com.zxl.spark2_2.kafka
   		
 		目前结构化流对kafka的要求版本0.10及以上 
 
+com.zxl.spark2_2.dataset
+
+	createDataSet：
+	
+		DataSet创建的多种方式
+		
+	basicAction：
+	
+		DataSet的基本操作
+		
+	actions：
+	
+		DataSet的Action操作
+
 com.zxl.spark1_6.dataframe
 	
 	SQLDemo：
